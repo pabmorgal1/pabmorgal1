@@ -10,7 +10,7 @@ En mi tiempo libre, me gusta contribuir a proyectos de código abierto y explora
 
 ## Proyectos 🎮
 
-Aquí tienes algunos de los proyectos en los que he estado trabajando y que están disponibles en GitHub:
+Aquí tienes algunos de los proyectos en los que he estado trabajando y que están disponibles en GitHub, mi portafolio personal:
 
 1. [Nombre del Proyecto 1](enlace al repositorio) - Breve descripción del proyecto.
 2. [Nombre del Proyecto 2](enlace al repositorio) - Breve descripción del proyecto.
