@@ -2,11 +2,18 @@
 
 ¡Bienvenido a mi página personal de GitHub! Soy un apasionado ingeniero de software con experiencia en desarrollo de aplicaciones web y móviles. Me encanta explorar nuevas tecnologías y crear soluciones innovadoras para resolver problemas.
 
-## Sobre mí
+## Sobre mí ✨
 
-Soy un ingeniero de software con una pasión por la programación y la resolución de problemas. Mi experiencia incluye el desarrollo de aplicaciones web utilizando tecnologías como JavaScript, React.js, Node.js y MongoDB. También tengo experiencia en el desarrollo de aplicaciones móviles para iOS y Android utilizando Swift y Kotlin.
+Soy un **ingeniero de software** con una **pasión por la programación y la resolución de problemas**. Mi experiencia incluye el desarrollo de aplicaciones web utilizando tecnologías como:
 
-En mi tiempo libre, me gusta contribuir a proyectos de código abierto y explorar nuevos campos de la ciencia de datos como la inteligencia artificial y el aprendizaje automático.
+- 🟨 **JavaScript**
+- 🟦 **React.js**
+- 🟩 **Node.js**
+- 🟢 **MongoDB**
+
+También tengo experiencia en el desarrollo de **aplicaciones móviles**📱para **iOS y Android** utilizando 🚀 **Swift** y 🛠️ **Kotlin**.
+
+En mi tiempo libre, me gusta contribuir a proyectos de **código abierto** y explorar nuevos campos de la **ciencia de datos** como la **inteligencia artificial** y el **aprendizaje automático**.
 
 ## Proyectos 🎮
 
